@@ -3,7 +3,7 @@
 ## Tech Stack
 - React.js v19.2.4
 - React Router DOM v7.14.0
-- Vite v8.0.4
+- Vite v8.0.5
 - Node.js v22.16.0
 
 ##  Start Project
